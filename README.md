@@ -7,16 +7,16 @@
 
 ### Approaches:
 * Business approach
-** Clients
-** Market Segments
-** Verify: Through their official websites
+1. Clients
+2. Market Segments
+3. Verify: Through their official websites
 * Services approach
-		○ Taxi/ Uber 
-		○ Local business
-		○ Real Estates
+1. Taxi/ Uber 
+2. Local business
+3. Real Estates
 * Personal Interests
-		○ Restaurants/ Salons/ Spas
-		○ Distance - quality trade off
+1. Restaurants/ Salons/ Spas
+2. Distance - quality trade off
 
 ### Ride-Share optimization:
 * Passive -> active
