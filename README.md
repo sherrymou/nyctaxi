@@ -1,4 +1,4 @@
-# Proposal
+# Master Plan
 
 ### Targets:
 * Law firms
@@ -9,7 +9,6 @@
 1. Business approach
 * Clients
 * Market Segments
-* Verify: Through their official websites
 2. Services approach
 * Taxi/ Uber 
 * Local business
