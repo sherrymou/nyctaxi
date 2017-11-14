@@ -7,9 +7,9 @@
 
 ### Approaches:
 * Business approach
-		○ Clients
-		○ Market Segments
-		○ Verify: Through their official websites
+** Clients
+** Market Segments
+** Verify: Through their official websites
 * Services approach
 		○ Taxi/ Uber 
 		○ Local business
